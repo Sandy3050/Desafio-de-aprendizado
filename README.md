@@ -1,6 +1,5 @@
 # Desafio-de-aprendizado
 Este repositório registra meu aprendizado durante as vídeo-aulas do curso da DIO.   
-Este repositório registra meu aprendizado durante as vídeo-aulas do curso da DIO.  
 Como estou usando apenas o celular, o repositório não contém códigos, apenas a documentação do que foi aprendido.
 
 ## Conteúdo aprendido
